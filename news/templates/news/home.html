@@ -1,0 +1,36 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+
+<meta charset="UTF-8" />
+<link rel="stylesheet" href="{% static 'news/main.css' %}"></link>
+<link rel="stylesheet" href="{% static 'news/cmun-typewriter-light.css' %}"></link>
+
+
+<head>
+
+
+	<title></title>
+
+
+</head>
+<body>
+
+	<div id="container">
+
+
+		{% for article in articles %}
+		<article>
+			<h3>{{ article.title }}</h3><h4>{{ article.publisher }}, {{ article.date_scraped }}</h4><p>{{ article.introduction }}</p>
+		</article>
+		{% endfor %}
+
+
+	</div>
+
+
+
+
+
+</body>
+</html>
