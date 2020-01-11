@@ -2,35 +2,58 @@
 <!DOCTYPE html>
 <html>
 
-<meta charset="UTF-8" />
-<link rel="stylesheet" href="{% static 'news/main.css' %}"></link>
-<link rel="stylesheet" href="{% static 'news/cmun-typewriter-light.css' %}"></link>
-
-
 <head>
-
+<!-- 	<script>
+	window.onload = function() {  // reload file every second
+		setInterval(function() { location.reload(); } , 1000);
+	};</script> -->
 
 	<title></title>
+	<link rel="stylesheet" href="{% static 'news/main.css' %}"></link>
+
+
 
 
 </head>
+
 <body>
 
-	<div id="container">
-
-
-		{% for article in articles %}
-		<article>
-			<h3>{{ article.title }}</h3><h4>{{ article.publisher }}, {{ article.date_scraped }}</h4><p>{{ article.introduction }}</p>
-		</article>
-		{% endfor %}
-
+	<div class="header" id="myHeader">
+		<form action="/search/" method="GET">
+			<input name="q" values="{{ request.GET.q }}" type="text", placeholder="Search Article Keywords">
+			<input type="submit" name="Search" value="Search">
+		</form>
 
 	</div>
 
+	{% for article in articles %}
+	<article>
+		<div class="article-title"><a href="{{ article.href }}" target="_blank">{{ article.title }}</a></div>
+		<div class="article-date">{{ article.date_scraped }}, {{ article.publisher}}</div>
+		<div class="article-intro">{{ article.introduction }}</div>
+	</article>
+	{% endfor %}
 
 
 
+
+
+
+
+	<script>
+		window.onscroll = function() {myFunction()};
+
+		var header = document.getElementById("myHeader");
+		var sticky = header.offsetTop;
+
+		function myFunction() {
+			if (window.pageYOffset > sticky) {
+				header.classList.add("sticky");
+			} else {
+				header.classList.remove("sticky");
+			}
+		}
+	</script>
 
 </body>
 </html>

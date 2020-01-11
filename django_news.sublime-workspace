@@ -1,0 +1,709 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"art",
+				"articles"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"que",
+				"queryest"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"lef",
+				"padding-left\tproperty"
+			],
+			[
+				"border-",
+				"border-radius\tproperty"
+			],
+			[
+				"intro",
+				"introduction"
+			],
+			[
+				"in",
+				"introductions"
+			],
+			[
+				"heai",
+				"headings_txt"
+			],
+			[
+				"User",
+				"UserUpdateForm"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"sl",
+				"selected_choice"
+			],
+			[
+				"qeustion",
+				"question_id"
+			],
+			[
+				"hr",
+				"href_lst"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"td",
+				"td"
+			],
+			[
+				"prof",
+				"profit_lst"
+			],
+			[
+				"pr",
+				"prices_standard"
+			],
+			[
+				"print",
+				"print"
+			],
+			[
+				"fc",
+				"fc_series"
+			],
+			[
+				"predi",
+				"prediction"
+			],
+			[
+				"plt",
+				"plt"
+			],
+			[
+				"n_s",
+				"n_stocks_per_stock"
+			],
+			[
+				"re",
+				"reference_lst"
+			],
+			[
+				"y_",
+				"y_pred"
+			],
+			[
+				"coin",
+				"coinbase_day_1"
+			],
+			[
+				"coinbase",
+				"coinbase_jan"
+			],
+			[
+				"weight",
+				"weighted_price"
+			],
+			[
+				"prices",
+				"prices_standard"
+			],
+			[
+				"calcul",
+				"calculate_moving_average"
+			],
+			[
+				"n_",
+				"n_samples_day"
+			],
+			[
+				"fe",
+				"features"
+			],
+			[
+				"threshold",
+				"threshold_sell"
+			],
+			[
+				"X_",
+				"X_avg20"
+			],
+			[
+				"mov",
+				"moving_average"
+			],
+			[
+				"p",
+				"pyplot"
+			],
+			[
+				"ma",
+				"maximum"
+			],
+			[
+				"min",
+				"minimum"
+			],
+			[
+				"null",
+				"null_index"
+			],
+			[
+				"nu",
+				"null_index"
+			],
+			[
+				"fea",
+				"features"
+			],
+			[
+				"X_trian_",
+				"X_train_standardized"
+			],
+			[
+				"X_train",
+				"X_train_rolling"
+			],
+			[
+				"mode",
+				"model_fit"
+			],
+			[
+				"day",
+				"days_to_subtract"
+			],
+			[
+				"_refere",
+				"_reference"
+			],
+			[
+				"thr",
+				"threshold_sell"
+			],
+			[
+				"_refen",
+				"_references"
+			],
+			[
+				"json",
+				"json_data"
+			],
+			[
+				"label_",
+				"label_select"
+			],
+			[
+				"data_",
+				"data_start"
+			],
+			[
+				"dataset_",
+				"dataset_txt"
+			],
+			[
+				"dic",
+				"dictionary"
+			],
+			[
+				"refere",
+				"references_lst"
+			],
+			[
+				"referne",
+				"references"
+			],
+			[
+				"pro",
+				"profile_names"
+			],
+			[
+				"market",
+				"market_caps_lst"
+			],
+			[
+				"price",
+				"prices_lst"
+			],
+			[
+				"c",
+				"cryptocurrencies_lst"
+			],
+			[
+				"cryp",
+				"cryptocurrencies_text"
+			],
+			[
+				"crypto",
+				"cryptocurrency"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/jer/Documents/websites/templates/template1/index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"redi",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indexing Status"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"te",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"inden",
+				"Indexing Status"
+			],
+			[
+				"colro",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Activate Materialize Theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			],
+			[
+				"sspl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sspla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"DA CS",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"js",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"j",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/jer/Documents/websites/django_news/news/templates/news/home.html",
+		"/home/jer/Documents/websites/django_news/django_news/asgi.py",
+		"/home/jer/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/jer/Documents/websites/django_webstek/db.sqlite3",
+		"/home/jer/Documents/websites/django_news/news/views.py",
+		"/home/jer/Documents/websites/django_news/news/urls.py",
+		"/home/jer/Documents/websites/django_news/news/static/news/main.css",
+		"/home/jer/Documents/websites/django_news/news/static/news/_main.css",
+		"/home/jer/Documents/websites/django_news/news/templates/news/_2home.html",
+		"/home/jer/Documents/websites/django_news/news/static/news/cmun-typewriter-light.css",
+		"/home/jer/Documents/websites/django_news/news/static/news/cmun-serif.css",
+		"/home/jer/Desktop/Google News.html",
+		"/home/jer/Documents/websites/django_news/django_news/settings.py",
+		"/home/jer/Documents/websites/django_news/news/templates/news/_1home.html",
+		"/home/jer/Documents/websites/django_blog/crypto/templates/crypto/home.html",
+		"/home/jer/Documents/websites/django_news/news/templates/news/_home.html",
+		"/home/jer/Documents/websites/django_news/scrape.py",
+		"/home/jer/Documents/websites/django_news/news/models.py",
+		"/home/jer/Documents/websites/django_news/news/_scrape.py",
+		"/home/jer/Documents/websites/django_news/news/admin.py",
+		"/home/jer/Documents/websites/django_news/django_news/urls.py",
+		"/home/jer/Documents/websites/django_blog/django_blog/urls.py",
+		"/home/jer/Documents/websites/django_news/news/tests.py",
+		"/home/jer/Documents/websites/django_news/manage.py",
+		"/home/jer/Documents/websites/django_news/django_news/__init__.py",
+		"/home/jer/Documents/websites/django_blog/scrape.py",
+		"/home/jer/Documents/websites/django_blog/news/templates/news/home.html",
+		"/home/jer/Documents/websites/django_blog/news/models.py",
+		"/home/jer/Documents/websites/django_blog/news/views.py",
+		"/home/jer/Documents/websites/django_blog/news/urls.py",
+		"/home/jer/Documents/websites/django_blog/crypto/urls.py",
+		"/home/jer/Documents/websites/django_blog/crypto/views.py",
+		"/home/jer/Documents/websites/django_blog/news/templates/news/_home.html",
+		"/home/jer/Documents/websites/django_blog/news/admin.py",
+		"/home/jer/Documents/websites/django_blog/news/apps.py",
+		"/home/jer/Documents/websites/django_blog/django_blog/settings.py",
+		"/home/jer/Documents/websites/django_blog/news/tests.py",
+		"/home/jer/Documents/websites/django_blog/crypto/apps.py",
+		"/home/jer/Documents/websites/django_blog/crypto/models.py",
+		"/home/jer/Documents/websites/django_blog/blog/tests.py",
+		"/home/jer/Documents/websites/django_blog/blog/templates/blog/home.html",
+		"/home/jer/Documents/websites/django_blog/blog/templates/blog/base.html",
+		"/home/jer/Documents/websites/django_blog/blog/views.py",
+		"/home/jer/Documents/websites/django_blog/crypto/admin.py",
+		"/home/jer/Documents/websites/django_blog/crypto/templates/crypto/scrape.html",
+		"/home/jer/Documents/webscraping/webscraping.py",
+		"/home/jer/Documents/websites/django_blog/crypto/templates/crypto/prices.html",
+		"/home/jer/Documents/websites/django_blog/crypto/tests.py",
+		"/home/jer/Documents/websites/django_blog/blog/apps.py",
+		"/home/jer/Documents/websites/django_blog/blog/templates/blog/about.html",
+		"/home/jer/Documents/websites/django_blog/blog/templates/blog/articles.html",
+		"/home/jer/Documents/websites/django_blog/blog/templates/blog/_base.html",
+		"/home/jer/Documents/websites/django_blog/blog/static/blog/main.css",
+		"/home/jer/Documents/websites/django_blog/blog/templates/blog/base_base.html",
+		"/home/jer/Documents/websites/django_blog/blog/urls.py",
+		"/home/jer/Documents/websites/django_blog/blog/templates/blog/index.html",
+		"/home/jer/Documents/websites/django_blog/blog/models.py",
+		"/home/jer/Documents/websites/django_blog/blog/admin.py",
+		"/home/jer/Documents/websites/django_basic/blog/models.py",
+		"/home/jer/Documents/websites/django_basic/blog/urls.py",
+		"/home/jer/Documents/websites/django_basic/users/forms.py",
+		"/home/jer/Documents/websites/django_basic/users/apps.py",
+		"/home/jer/Documents/websites/django_basic/users/models.py",
+		"/home/jer/Documents/websites/django_basic/blog/static/blog/main.css",
+		"/home/jer/Documents/websites/django_basic/blog/views.py",
+		"/home/jer/Documents/websites/django_basic/users/templates/users/register.html",
+		"/home/jer/Documents/websites/django_basic/blog/templates/blog/home.html",
+		"/home/jer/Documents/websites/django_basic/users/views.py",
+		"/home/jer/Documents/websites/django_basic/users/templates/users/profile.html",
+		"/home/jer/Documents/websites/django_basic/users/signals.py",
+		"/home/jer/Documents/websites/django_basic/django_basic/settings.py",
+		"/home/jer/Documents/websites/django_basic/django_basic/urls.py",
+		"/home/jer/Documents/websites/django_basic/blog/templates/blog/base.html",
+		"/home/jer/Documents/websites/django_basic/users/admin.py",
+		"/home/jer/Documents/websites/django_basic/users/templates/users/logout.html",
+		"/home/jer/Documents/websites/django_basic/users/templates/users/login.html",
+		"/home/jer/Documents/websites/django_basic/blog/admin.py",
+		"/home/jer/Documents/websites/django_basic/blog/templates/blog/about.html",
+		"/home/jer/Documents/websites/django_basic/blog/templates/blog/contact.html",
+		"/home/jer/Documents/websites/django_basic/django_basic/wsgi.py",
+		"/home/jer/Documents/websites/django_webstek/polls/urls.py",
+		"/home/jer/Documents/websites/template/tmp_1/index.html",
+		"/home/jer/Documents/websites/django_webstek/polls/static/polls/style.css",
+		"/home/jer/Documents/websites/django_webstek/polls/admin.py",
+		"/home/jer/Documents/websites/django_webstek/polls/templates/polls/index.html",
+		"/home/jer/Documents/websites/django_webstek/polls/templates/admin/index.html",
+		"/home/jer/Documents/websites/django_webstek/polls/models.py",
+		"/home/jer/Documents/websites/django_webstek/django_webstek/settings.py",
+		"/home/jer/Documents/websites/django_webstek/django_webstek/urls.py",
+		"/home/jer/Documents/websites/django_webstek/polls/templates/polls/detail.html",
+		"/home/jer/Documents/websites/django_webstek/polls/templates/polls/results.html",
+		"/home/jer/Documents/websites/django_webstek/polls/views.py",
+		"/home/jer/Documents/websites/django_webstek/polls/tests.py",
+		"/home/jer/Documents/websites/django_webstek/manage.py",
+		"/home/jer/Documents/websites/django_webstek/django_webstek/wsgi.py",
+		"/home/jer/Documents/websites/django_webstek/django_webstek/__init__.py",
+		"/home/jer/Documents/webblog/polls/admin.py",
+		"/home/jer/Documents/webblog/polls/models.py",
+		"/home/jer/Documents/webblog/manage.py",
+		"/home/jer/Documents/webblog/polls/templates/polls/detail.html",
+		"/home/jer/Documents/webblog/polls/urls.py",
+		"/home/jer/Documents/webblog/polls/templates/polls/index.html",
+		"/home/jer/Documents/webblog/webblog/urls.py",
+		"/home/jer/Documents/webblog/polls/views.py",
+		"/home/jer/Documents/webblog/webblog/settings.py",
+		"/home/jer/Documents/notes/django",
+		"/home/jer/Documents/webblog/webblog/urls.pyc",
+		"/home/jer/Documents/webblog/webblog/__init__.py",
+		"/home/jer/Documents/webblog/webblog/wsgi.py",
+		"/home/jer/Documents/websites/cryptodata/all_cryptocurrencies_coinmarketcap.json",
+		"/home/jer/Documents/notes/website_domain",
+		"/home/jer/Documents/websites/cryptodata/index.html",
+		"/home/jer/Documents/websites/treintickets/notes",
+		"/home/jer/Documents/websites/treintickets/pythonserver",
+		"/home/jer/Documents/websites/treintickets/pythonscript.py",
+		"/home/jer/Documents/websites/treintickets/pythonscript.pu",
+		"/home/jer/Documents/websites/cryptodata/data/all_cryptocurrencies_coinmarketcap.json",
+		"/home/jer/Documents/websites/cryptodata/styles.css",
+		"/home/jer/Documents/notes/server_commands",
+		"/etc/apache2/sites-available/jwrcrypto.nl.conf",
+		"/var/www/jwrcrypto.nl/html/index.html",
+		"/home/jer/Documents/websites/cryptodata/syl",
+		"/home/jer/Documents/websites/cryptodata/inde",
+		"/etc/hosts",
+		"/home/jer/Documents/websites/python_login/fb/login.php",
+		"/home/jer/Documents/websites/python_login/fb/index.html",
+		"/home/jer/Documents/python_login/login.php",
+		"/home/jer/Documents/python_login/info"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"}\n",
+			"head",
+			"header",
+			"ukranian"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/jer/Documents/websites/templates/template1/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "django_news.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"w3",
+				"django_webstek/db.sqlite3"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

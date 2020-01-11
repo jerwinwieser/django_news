@@ -1,29 +1,75 @@
 /* stylesheet.css */
 
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+	background-color: white;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+article {
+	border-top: solid;
+	border-width: thin;
+	width: 50%;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
 #container{
 	background-color: white;
-	border-style: solid;
-	border-width: thin;
-	border-color: black;
-	float: left;
-	width: 700px;
-	margin-left: 200px;
-	border-radius: 10px;
 }
 
-article{
+.article-title{
+	font-weight: bold;
+}
+
+.article-date{
+	font-weight: bold;
+	font-size: 10px;
+}
+
+.article-intro{
+	font-size: small;
+}
+
+.searchbar {
+
+}
+
+.btn{
+	
+}
+
+
+
+
+/* Style the header */
+.header {
+	padding: 10px 16px;
 	background-color: white;
-	border-style: solid;
-	border-width: thin;
-	border-color: black;
-	float: left;
-	width: 400px;
-	margin: 2px;
-	padding: 2px;
-	border-radius: 10px;
+	color: white;
+	box-shadow: 0 4px 2px -2px gray;
 }
 
-h3, h4, p {
-	padding: 0px;
-	margin: 0px;
+/* Page content */
+.content {
+	padding: 16px;
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+	position: fixed;
+	top: 0;
+	width: 100%
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+	padding-top: 102px;
 }

@@ -7,6 +7,8 @@ import requests
 
 from .models import Article
 
+from django.db.models import Q
+
 
 def home(request):
 	return render(request, 'news/home.html', {'title': 'News Page', 'articles': Article.objects.all()})
@@ -47,13 +49,9 @@ def scrape(request):
 
 	return redirect('/')
 
-def get_blog_queryset(query=None):
-	queryest = []
-	queries = query.split(" ")
-	for q in queries:
-		posts = BlogPost.objects.filter(
-			Q(title__iconstrains=q) |
-			Q(body__iconstrains=q)
-			).distinct()
 
-		
+def search(request):
+	query = request.GET.get("q")
+	results = Article.objects.filter(Q(title__icontains=query))
+
+	return render(request, "news/home.html", {'articles': results})
