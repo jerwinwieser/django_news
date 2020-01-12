@@ -9,11 +9,16 @@ body {
 	padding: 0px;
 }
 
+fieldset {
+	margin: 0px;
+	border: none;
+}
+
 
 article {
-	border-top: solid;
+/*	border-top: solid;
 	border-width: thin;
-	width: 50%;
+	border-color: black;*/
 }
 
 a:link {
@@ -21,8 +26,57 @@ a:link {
   color: black;
 }
 
-#container{
+ul{
+  list-style-type: none;
+  margin: 0px;
+}
+
+
+
+/* Style the header */
+.header {
+	padding: 15px 20px;
 	background-color: white;
+	color: white;
+	box-shadow: 0 4px 4px -1px gray;
+}
+
+
+/* Page content */
+.content {
+	padding: 16px;
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+	position: fixed;
+	top: 0;
+	width: 100%
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+	padding-top: 102px;
+}
+
+.container{
+	background-color: grey;
+}
+
+
+.search-features {
+	background-color: white;
+	opacity: 1;
+	width: 300px;
+	float: left;
+}
+
+.search-results {
+	background-color: #ffc;
+	opacity: 1;
+	width: 400px;
+	float: left;
+	margin-left: 300px;
 }
 
 .article-title{
@@ -44,32 +98,4 @@ a:link {
 
 .btn{
 	
-}
-
-
-
-
-/* Style the header */
-.header {
-	padding: 10px 16px;
-	background-color: white;
-	color: white;
-	box-shadow: 0 4px 2px -2px gray;
-}
-
-/* Page content */
-.content {
-	padding: 16px;
-}
-
-/* The sticky class is added to the header with JS when it reaches its scroll position */
-.sticky {
-	position: fixed;
-	top: 0;
-	width: 100%
-}
-
-/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
-.sticky + .content {
-	padding-top: 102px;
 }

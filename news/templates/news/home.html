@@ -17,7 +17,7 @@
 </head>
 
 <body>
-
+<fieldset>
 	<div class="header" id="myHeader">
 		<form action="/search/" method="GET">
 			<input name="q" values="{{ request.GET.q }}" type="text", placeholder="Search Article Keywords">
@@ -25,17 +25,42 @@
 		</form>
 
 	</div>
-
-	{% for article in articles %}
-	<article>
-		<div class="article-title"><a href="{{ article.href }}" target="_blank">{{ article.title }}</a></div>
-		<div class="article-date">{{ article.date_scraped }}, {{ article.publisher}}</div>
-		<div class="article-intro">{{ article.introduction }}</div>
-	</article>
-	{% endfor %}
+</fieldset>
 
 
+	<div class="container">
+		<div class="search-results">
+			{% for article in articles %}
+			<article>
+				<div class="article-title"><a href="{{ article.href }}" target="_blank">{{ article.title }}</a></div>
+				<div class="article-date">{{ article.date_scraped }}, {{ article.publisher}}</div>
+				<div class="article-intro">{{ article.introduction }}</div>
+			</article>
+			{% endfor %}
+		</article>
+	</div>
 
+
+
+	<div class="search-features">
+		<ul>
+			<li>one</li>
+			<li>two</li>
+			<li>three</li>
+			<li>one</li>
+			<li>two</li>
+			<li>three</li>
+			<li>one</li>
+			<li>two</li>
+			<li>three</li>
+			<li>one</li>
+			<li>two</li>
+			<li>three</li>
+			<li>one</li>
+			<li>two</li>
+			<li>three</li>
+		</ul>
+	</div>
 
 
 

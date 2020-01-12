@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
 				"art",
 				"articles"
 			],
@@ -18,10 +22,6 @@
 			[
 				"pad",
 				"padding\tproperty"
-			],
-			[
-				"margin-",
-				"margin-bottom\tproperty"
 			],
 			[
 				"paddin",
@@ -260,10 +260,36 @@
 	"buffers":
 	[
 		{
-			"file": "/home/jer/Documents/websites/templates/template1/index.html",
+			"file": "news/templates/news/home.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1212,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "news/static/news/main.css",
+			"settings":
+			{
+				"buffer_size": 1049,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "news/static/news/_main.css",
+			"settings":
+			{
+				"buffer_size": 707,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "news/views.py",
+			"settings":
+			{
+				"buffer_size": 1417,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -280,6 +306,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
 			[
 				"packa",
 				"Package Control: Install Package"
@@ -302,10 +332,6 @@
 			],
 			[
 				"rein",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"inde",
 				"Indentation: Reindent Lines"
 			],
 			[
@@ -417,17 +443,25 @@
 	},
 	"expanded_folders":
 	[
+		"/home/jer/Documents/websites/django_news",
+		"/home/jer/Documents/websites/django_news/django_news",
+		"/home/jer/Documents/websites/django_news/news",
+		"/home/jer/Documents/websites/django_news/news/static",
+		"/home/jer/Documents/websites/django_news/news/static/news",
+		"/home/jer/Documents/websites/django_news/news/templates",
+		"/home/jer/Documents/websites/django_news/news/templates/news"
 	],
 	"file_history":
 	[
+		"/home/jer/Documents/websites/django_news/news/static/news/_main.css",
+		"/home/jer/Documents/websites/django_news/news/static/news/main.css",
 		"/home/jer/Documents/websites/django_news/news/templates/news/home.html",
+		"/home/jer/Documents/websites/django_news/news/views.py",
+		"/home/jer/Documents/websites/templates/template1/index.html",
 		"/home/jer/Documents/websites/django_news/django_news/asgi.py",
 		"/home/jer/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
 		"/home/jer/Documents/websites/django_webstek/db.sqlite3",
-		"/home/jer/Documents/websites/django_news/news/views.py",
 		"/home/jer/Documents/websites/django_news/news/urls.py",
-		"/home/jer/Documents/websites/django_news/news/static/news/main.css",
-		"/home/jer/Documents/websites/django_news/news/static/news/_main.css",
 		"/home/jer/Documents/websites/django_news/news/templates/news/_2home.html",
 		"/home/jer/Documents/websites/django_news/news/static/news/cmun-typewriter-light.css",
 		"/home/jer/Documents/websites/django_news/news/static/news/cmun-serif.css",
@@ -546,12 +580,11 @@
 		"/etc/hosts",
 		"/home/jer/Documents/websites/python_login/fb/login.php",
 		"/home/jer/Documents/websites/python_login/fb/index.html",
-		"/home/jer/Documents/python_login/login.php",
-		"/home/jer/Documents/python_login/info"
+		"/home/jer/Documents/python_login/login.php"
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 31.0
 	},
 	"find_in_files":
 	{
@@ -586,16 +619,45 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/jer/Documents/websites/templates/template1/index.html",
+					"file": "news/templates/news/home.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1212,
+								1212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "news/static/news/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1049,
 						"regions":
 						{
 						},
@@ -608,7 +670,66 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "news/static/news/_main.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "news/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1404,
+								1404
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -622,7 +743,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 38.0
+		"height": 31.0
 	},
 	"input":
 	{
@@ -659,7 +780,7 @@
 	"project": "django_news.sublime-project",
 	"replace":
 	{
-		"height": 72.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -668,6 +789,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/Documents/websites/templates/template1/index.html"
+			],
 			[
 				"w3",
 				"django_webstek/db.sqlite3"
@@ -701,7 +826,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 315.0,
+	"side_bar_width": 248.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
